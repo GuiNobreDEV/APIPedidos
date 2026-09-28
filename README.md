@@ -10,6 +10,7 @@ Preencha com os integrantes do grupo antes da criação da tag final:
 | --------------------------- | ------ | ------- |
 | Guilherme Nobre Evangelista | CC8Q13 | G804619 |
 | Lucas Saraiva Carnauba      | CC8Q13 | G7631G9 |
+| Kaique Fernandes Leal       | CC8P13 | G797FG7 |
 
 ## Tecnologias
 
