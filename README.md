@@ -4,8 +4,6 @@ API REST para cadastro e gerenciamento de pedidos, desenvolvida em Python com Fa
 
 ## Integrantes
 
-Preencha com os integrantes do grupo antes da criação da tag final:
-
 | Nome completo               | Turma  | RA      |
 | --------------------------- | ------ | ------- |
 | Guilherme Nobre Evangelista | CC8Q13 | G804619 |
